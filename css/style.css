@@ -1,0 +1,13 @@
+.pointer{
+    cursor: pointer;
+}
+
+.navbar{
+    top: 0px !important;
+}
+
+.active {
+    color: rgb(255, 255, 255) !important;
+    font-weight: bold !important;
+    text-transform: capitalize;
+  }
